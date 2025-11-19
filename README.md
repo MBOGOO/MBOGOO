@@ -32,17 +32,15 @@
 ---
 
 ## 💻 Skills Progress
-| Skill | Proficiency |
-|-------|------------|
-| Python | <img src="https://progress-bar.dev/95/?title=Python&color=blue" alt="Python 95%"/> |
-| PHP | <img src="https://progress-bar.dev/90/?title=PHP&color=purple" alt="PHP 90%"/> |
-| Laravel | <img src="https://progress-bar.dev/85/?title=Laravel&color=red" alt="Laravel 85%"/> |
-| Flask | <img src="https://progress-bar.dev/80/?title=Flask&color=orange" alt="Flask 80%"/> |
-| JavaScript | <img src="https://progress-bar.dev/90/?title=JS&color=yellow" alt="JavaScript 90%"/> |
-| HTML/CSS | <img src="https://progress-bar.dev/95/?title=HTML/CSS&color=cyan" alt="HTML/CSS 95%"/> |
-| MySQL | <img src="https://progress-bar.dev/85/?title=MySQL&color=blue" alt="MySQL 85%"/> |
-| MongoDB | <img src="https://progress-bar.dev/80/?title=MongoDB&color=green" alt="MongoDB 80%"/> |
-| Git & GitHub | <img src="https://progress-bar.dev/95/?title=GitHub&color=black" alt="GitHub 95%"/> |
+**Python:** ![Python](https://img.shields.io/badge/Python-95%25-blue?style=for-the-badge&logo=python&logoColor=white)  
+**PHP:** ![PHP](https://img.shields.io/badge/PHP-90%25-purple?style=for-the-badge&logo=php&logoColor=white)  
+**Laravel:** ![Laravel](https://img.shields.io/badge/Laravel-85%25-red?style=for-the-badge&logo=laravel&logoColor=white)  
+**Flask:** ![Flask](https://img.shields.io/badge/Flask-80%25-orange?style=for-the-badge&logo=flask&logoColor=white)  
+**JavaScript:** ![JavaScript](https://img.shields.io/badge/JavaScript-90%25-yellow?style=for-the-badge&logo=javascript&logoColor=black)  
+**HTML/CSS:** ![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-95%25-cyan?style=for-the-badge&logo=html5&logoColor=white)  
+**MySQL:** ![MySQL](https://img.shields.io/badge/MySQL-85%25-blue?style=for-the-badge&logo=mysql&logoColor=white)  
+**MongoDB:** ![MongoDB](https://img.shields.io/badge/MongoDB-80%25-green?style=for-the-badge&logo=mongodb&logoColor=white)  
+**Git & GitHub:** ![GitHub](https://img.shields.io/badge/GitHub-95%25-black?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 

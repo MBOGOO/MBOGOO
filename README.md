@@ -1,23 +1,16 @@
 # 👋 Hi, I’m Alex Mbogo Kang’ethe (@MBOGOO)
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,php,laravel,flask,js,java,c,cpp,html,css,bootstrap,mysql,mongodb,git,github,postman,vscode" alt="Skills" />
+  <img src="https://c.tenor.com/MgFzO04XYyYAAAAi/typing.gif" width="400" alt="Typing Animation"/>
 </p>
 
----
-
-## 🧑‍💻 About Me
-- **Full Name:** Alex Mbogo Kang’ethe  
-- **GitHub:** [@MBOGOO](https://github.com/MBOGOO)  
-- **Pronouns:** He/Him  
-- **School:** Kabarak University  
-- **Degree:** Bachelor of Science in Computer Science  
-- **Interests:** Software engineering, AI, web development, database design  
-- **Collaboration:** Open to working with tech companies & open-source projects  
+<p align="center">
+  <strong>Software Engineer | Web Developer | AI Enthusiast</strong>
+</p>
 
 <p align="center">
   <a href="mailto:alexmbogokangethe@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="40"/></a>
-  <a href="YOUR_LINKEDIN_LINK"><img src="https://skillicons.dev/icons?i=linkedin" width="40"/></a>
+  <a href="https://www.linkedin.com/in/alex-mbogo-14b0992b1/"><img src="https://skillicons.dev/icons?i=linkedin" width="40"/></a>
   <a href="https://github.com/MBOGOO"><img src="https://skillicons.dev/icons?i=github" width="40"/></a>
 </p>
 
@@ -34,6 +27,7 @@
 | PHP | ![PHP](https://img.shields.io/badge/PHP-90%25-purple?style=for-the-badge&logo=php&logoColor=white) |
 | Laravel | ![Laravel](https://img.shields.io/badge/Laravel-85%25-red?style=for-the-badge&logo=laravel&logoColor=white) |
 | Flask | ![Flask](https://img.shields.io/badge/Flask-80%25-orange?style=for-the-badge&logo=flask&logoColor=white) |
+| Django | ![Django](https://img.shields.io/badge/Django-85%25-green?style=for-the-badge&logo=django&logoColor=white) |
 | JavaScript | ![JavaScript](https://img.shields.io/badge/JavaScript-90%25-yellow?style=for-the-badge&logo=javascript&logoColor=black) |
 | HTML/CSS | ![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-95%25-cyan?style=for-the-badge&logo=html5&logoColor=white) |
 | MySQL | ![MySQL](https://img.shields.io/badge/MySQL-85%25-blue?style=for-the-badge&logo=mysql&logoColor=white) |
@@ -41,6 +35,23 @@
 | Git & GitHub | ![GitHub](https://img.shields.io/badge/GitHub-95%25-black?style=for-the-badge&logo=github&logoColor=white) |
 
 </details>
+
+---
+
+## 💻 Currently Coding
+
+<p align="center">
+  <img src="https://media.giphy.com/media/L05HgB2h6qICDs5Sms/giphy.gif" width="600" alt="Coding Animation">
+</p>
+
+---
+
+## 🚀 Currently Learning
+<p align="center">
+  <img src="https://img.shields.io/badge/Currently_Learning-Django-green?style=for-the-badge&logo=django&logoColor=white&animation=blink" />
+  <img src="https://img.shields.io/badge/Currently_Learning-AI-blue?style=for-the-badge&logo=opencv&logoColor=white&animation=blink" />
+  <img src="https://img.shields.io/badge/Currently_Learning-React-lightblue?style=for-the-badge&logo=react&logoColor=white&animation=blink" />
+</p>
 
 ---
 
@@ -74,18 +85,22 @@
 ### 🔹 SmartCart – Grocery Ordering & Delivery System  
 > Full platform for ordering, tracking, and delivery management.  
 **Tech:** Laravel, MySQL, JavaScript, HTML/CSS  
+[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge)](YOUR_PROJECT_LINK)  
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge)
 
 ### 🔹 Visitor Log Management System  
-> Flask + MongoDB system for visitor check-in, approvals, SMS notifications, and dashboard.  
+> Flask + Django + MongoDB system for visitor check-in, approvals, SMS notifications, and dashboard.  
+[![Live Demo](https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge)](YOUR_PROJECT_LINK)  
 ![Version](https://img.shields.io/badge/Version-2.0-blue?style=for-the-badge)
 
 ### 🔹 Messaging System (Token-Based)  
 > Real-time messaging with token authentication, dashboard UI & MySQL backend.  
+[![Live Demo](https://img.shields.io/badge/Live-Demo-yellow?style=for-the-badge)](YOUR_PROJECT_LINK)  
 ![Security](https://img.shields.io/badge/Security-Enhanced-yellow?style=for-the-badge)
 
 ### 🔹 Student Attendance System  
 > Web-based attendance tracking with analysis and reports.  
+[![Live Demo](https://img.shields.io/badge/Live-Demo-orange?style=for-the-badge)](YOUR_PROJECT_LINK)  
 ![UseCase](https://img.shields.io/badge/UseCase-University-orange?style=for-the-badge)
 
 </details>

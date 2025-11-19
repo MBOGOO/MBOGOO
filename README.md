@@ -29,17 +29,17 @@
 </p>
 
 
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnpsdjkyNTlhendmempzZDNndnkyaXQwazdoemZqMWt6anVqNTZ5biZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Ws6T5PN7wHv3cY8xy8/giphy.gif"  alt="Laptop Animation"/>
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnpsdjkyNTlhendmempzZDNndnkyaXQwazdoemZqMWt6anVqNTZ5biZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif" width="200" alt="Programmer Animation"/>
-</p>
-
 ---
 
 ## ⚡ Skills & Tools
 
 <details>
 <summary>Click to expand my skills</summary>
+
+
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnpsdjkyNTlhendmempzZDNndnkyaXQwazdoemZqMWt6anVqNTZ5biZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Ws6T5PN7wHv3cY8xy8/giphy.gif"  alt="Laptop Animation"/>
+</p>
 
 | Skill | Level |
 |-------|-------|
@@ -80,6 +80,11 @@
 </p>
 
 ---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnpsdjkyNTlhendmempzZDNndnkyaXQwazdoemZqMWt6anVqNTZ5biZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif"  alt="Programmer Animation"/>
+</p>
+
 
 ## 📦 Featured Projects
 <details>

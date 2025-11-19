@@ -1,23 +1,43 @@
+# snake.yml - Fully working for MBOGOO GitHub profile
+
+permissions:
+  contents: write
+
 name: Generate Snake Animation
 
+# Trigger workflow every 12 hours or manually
 on:
   schedule:
-    - cron: "0 */6 * * *"
+    - cron: "0 */12 * * *"
   workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
+
     steps:
-      - uses: Platane/snk@v3
+      # 1️⃣ Checkout repository with write permissions
+      - name: Checkout repo
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      # 2️⃣ Generate the snake.svg contribution graph
+      - name: Generate snake.svg
+        uses: Platane/snk/svg-only@v2
         with:
           github_user_name: MBOGOO
           outputs: dist/snake.svg
-          
-      - name: Push snake animation to output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
+
+      # 3️⃣ Commit and push snake.svg to the output branch
+      - name: Push snake.svg to output branch
+        run: |
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config --global user.name "github-actions[bot]"
+          git fetch origin output
+          git checkout output || git checkout -b output
+          git add dist/snake.svg
+          git commit -m "Update snake.svg" || echo "No changes to commit"
+          git push --force origin output
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

@@ -14,9 +14,10 @@
 
 ## 🧑‍💻 About Me
 - **Full Name:** Alex Mbogo Kang’ethe  
-- **GitHub:** [@MBOGOO](https://github.com/MBOGOO)  
 - **School:** Kabarak University  
 - **Degree:** Bachelor of Science in Computer Science  
+- **GitHub:** [@MBOGOO](https://github.com/MBOGOO)  
+- **LinkedIn:** [Alex Mbogo](https://www.linkedin.com/in/alex-mbogo-14b0992b1/)  
 - **Pronouns:** He/Him  
 - **Interests:** Software engineering, AI, web development, database design  
 - **Collaboration:** Open to working with tech companies & open-source projects  
@@ -26,7 +27,7 @@
 ## 💻 Currently Coding
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="600" alt="Coding Animation"/>
+  <img src="https://media.giphy.com/media/1d5i1Xz6aFhUy/giphy.gif" width="600" alt="Tech Coding Animation"/>
 </p>
 
 ---

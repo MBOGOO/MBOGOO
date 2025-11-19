@@ -1,7 +1,25 @@
 # 👋 Hi, I’m Alex Mbogo Kang’ethe (@MBOGOO)
 
+## 👀 About Me
+- **Full Name:** Alex Mbogo Kang’ethe  
+- **GitHub:** [@MBOGOO](https://github.com/MBOGOO)  
+- **Pronouns:** He/Him  
+- **School:** Kabarak University  
+- **Degree:** Bachelor of Science in Computer Science  
+- **Interests:** Software engineering, AI, web development, database design  
+- **Looking to collaborate with:** Tech companies and open-source projects  
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MBOGOO/MBOGOO/output/dist/snake.svg" alt="Contribution Snake"/>
+  <!-- Contact / Social Badges -->
+  <a href="mailto:alexmbogokangethe@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="40" alt="Gmail"/>
+  </a>
+  <a href="YOUR_LINKEDIN_LINK">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="40" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/MBOGOO">
+    <img src="https://skillicons.dev/icons?i=github" width="40" alt="GitHub"/>
+  </a>
 </p>
 
 ---
@@ -11,12 +29,26 @@
   <img src="https://skillicons.dev/icons?i=python,php,laravel,flask,js,java,c,cpp,html,css,bootstrap,mysql,mongodb,git,github,postman,vscode" alt="Skills"/>
 </p>
 
+---
+
+## 💻 Skills Progress
+| Skill | Proficiency |
+|-------|------------|
+| Python | <img src="https://progress-bar.dev/95/?title=Python&color=blue" alt="Python 95%"/> |
+| PHP | <img src="https://progress-bar.dev/90/?title=PHP&color=purple" alt="PHP 90%"/> |
+| Laravel | <img src="https://progress-bar.dev/85/?title=Laravel&color=red" alt="Laravel 85%"/> |
+| Flask | <img src="https://progress-bar.dev/80/?title=Flask&color=orange" alt="Flask 80%"/> |
+| JavaScript | <img src="https://progress-bar.dev/90/?title=JS&color=yellow" alt="JavaScript 90%"/> |
+| HTML/CSS | <img src="https://progress-bar.dev/95/?title=HTML/CSS&color=cyan" alt="HTML/CSS 95%"/> |
+| MySQL | <img src="https://progress-bar.dev/85/?title=MySQL&color=blue" alt="MySQL 85%"/> |
+| MongoDB | <img src="https://progress-bar.dev/80/?title=MongoDB&color=green" alt="MongoDB 80%"/> |
+| Git & GitHub | <img src="https://progress-bar.dev/95/?title=GitHub&color=black" alt="GitHub 95%"/> |
+
+---
+
+## 🐍 Contribution Snake
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white&labelColor=303030" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white&labelColor=303030" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=303030" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=303030" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=303030" />
+  <img src="https://raw.githubusercontent.com/MBOGOO/MBOGOO/output/dist/snake.svg" alt="Contribution Snake"/>
 </p>
 
 ---
@@ -43,13 +75,11 @@
 ## 📦 Featured Projects
 
 ### 🔹 SmartCart – Grocery Ordering & Delivery System  
-> A full platform with ordering, tracking, and delivery management.  
+> Full platform for ordering, tracking, and delivery management.  
 **Tech:** Laravel, MySQL, JavaScript, HTML/CSS  
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge" />
 </p>
-
----
 
 ### 🔹 Visitor Log Management System  
 > Flask + MongoDB system for visitor check-in, approvals, SMS notifications, and dashboard.  
@@ -57,15 +87,11 @@
   <img src="https://img.shields.io/badge/Version-2.0-blue?style=for-the-badge" />
 </p>
 
----
-
 ### 🔹 Messaging System (Token-Based)  
 > Real-time messaging with token authentication, dashboard UI & MySQL backend.  
 <p align="center">
   <img src="https://img.shields.io/badge/Security-Enhanced-yellow?style=for-the-badge" />
 </p>
-
----
 
 ### 🔹 Student Attendance System  
 > Web-based attendance tracking with analysis and reports.  
@@ -80,20 +106,7 @@ I don’t just code — **I engineer solutions** that solve real problems and im
 
 ---
 
-## ✨ Contact & Footer
+## ✨ Footer
 <p align="center">
-  <i>"Code is like humor. When you have to explain it, it’s bad."</i><br><br>
-  <a href="mailto:alexmbogokangethe@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" width="40" alt="Gmail"/>
-  </a>
-  <a href="YOUR_LINKEDIN_LINK">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="40" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/MBOGOO">
-    <img src="https://skillicons.dev/icons?i=github" width="40" alt="GitHub"/>
-  </a>
+  <i>"Code is like humor. When you have to explain it, it’s bad."</i>
 </p>
-
----
-
-> **Note:** This README is displayed on your GitHub profile (`MBOGOO/MBOGOO`) and updates automatically with your contribution snake.

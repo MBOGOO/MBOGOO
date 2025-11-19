@@ -24,7 +24,7 @@ jobs:
 
       # 2️⃣ Generate the snake.svg contribution graph
       - name: Generate snake.svg
-        uses: Platane/snk/svg-only@v2
+        uses: Platane/snk/svg-only@main
         with:
           github_user_name: MBOGOO
           outputs: dist/snake.svg

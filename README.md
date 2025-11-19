@@ -36,11 +36,6 @@
 <details>
 <summary>Click to expand my skills</summary>
 
-
-<p align="right">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnpsdjkyNTlhendmempzZDNndnkyaXQwazdoemZqMWt6anVqNTZ5biZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Ws6T5PN7wHv3cY8xy8/giphy.gif"  alt="Laptop Animation"/>
-</p>
-
 | Skill | Level |
 |-------|-------|
 | Python | ![Python](https://img.shields.io/badge/Python-95%25-blue?style=for-the-badge&logo=python&logoColor=white) |
@@ -55,6 +50,10 @@
 | Git & GitHub | ![GitHub](https://img.shields.io/badge/GitHub-95%25-black?style=for-the-badge&logo=github&logoColor=white) |
 
 </details>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnpsdjkyNTlhendmempzZDNndnkyaXQwazdoemZqMWt6anVqNTZ5biZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Ws6T5PN7wHv3cY8xy8/giphy.gif"  alt="Laptop Animation"/>
+</p>
 
 ---
 

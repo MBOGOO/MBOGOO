@@ -27,7 +27,7 @@
 ## 💻 Currently Coding
 
 <p align="center">
-  <img src="https://media.giphy.com/media/1d5i1Xz6aFhUy/giphy.gif" width="600" alt="Tech Coding Animation"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnpsdjkyNTlhendmempzZDNndnkyaXQwazdoemZqMWt6anVqNTZ5biZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif"/>
 </p>
 
 ---

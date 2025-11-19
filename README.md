@@ -25,14 +25,6 @@
 ## 💻 Currently Coding
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnpsdjkyNTlhendmempzZDNndnkyaXQwazdoemZqMWt6anVqNTZ5biZlcD12MV9naWZzX3NlYXJjaCZjdD1n/RbDKaczqWovIugyJmW/giphy.gif" width="600" alt="Tech Coding Animation"/>
-</p>
-
----
-
-## 🎨 Tech Animations
-
-<p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnpsdjkyNTlhendmempzZDNndnkyaXQwazdoemZqMWt6anVqNTZ5biZlcD12MV9naWZzX3NlYXJjaCZjdD1n/RbDKaczqWovIugyJmW/giphy.gif" width="200" alt="Coding Animation"/>
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnpsdjkyNTlhendmempzZDNndnkyaXQwazdoemZqMWt6anVqNTZ5biZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Ws6T5PN7wHv3cY8xy8/giphy.gif" width="200" alt="Laptop Animation"/>
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnpsdjkyNTlhendmempzZDNndnkyaXQwazdoemZqMWt6anVqNTZ5biZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif" width="200" alt="Programmer Animation"/>

@@ -1,10 +1,6 @@
 # 👋 Hi, I’m Alex Mbogo Kang’ethe (@MBOGOO)
 
 <p align="center">
-  <img src="https://c.tenor.com/MgFzO04XYyYAAAAi/typing.gif" width="400" alt="Typing Animation"/>
-</p>
-
-<p align="center">
   <strong>Software Engineer | Web Developer | AI Enthusiast</strong>
 </p>
 
@@ -12,6 +8,34 @@
   <a href="mailto:alexmbogokangethe@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="40"/></a>
   <a href="https://www.linkedin.com/in/alex-mbogo-14b0992b1/"><img src="https://skillicons.dev/icons?i=linkedin" width="40"/></a>
   <a href="https://github.com/MBOGOO"><img src="https://skillicons.dev/icons?i=github" width="40"/></a>
+</p>
+
+---
+
+## 🧑‍💻 About Me
+- **Full Name:** Alex Mbogo Kang’ethe  
+- **GitHub:** [@MBOGOO](https://github.com/MBOGOO)  
+- **School:** Kabarak University  
+- **Degree:** Bachelor of Science in Computer Science  
+- **Pronouns:** He/Him  
+- **Interests:** Software engineering, AI, web development, database design  
+- **Collaboration:** Open to working with tech companies & open-source projects  
+
+---
+
+## 💻 Currently Coding
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="600" alt="Coding Animation"/>
+</p>
+
+---
+
+## 🚀 Currently Learning
+<p align="center">
+  <img src="https://img.shields.io/badge/Currently_Learning-Django-green?style=for-the-badge&logo=django&logoColor=white&animation=blink" />
+  <img src="https://img.shields.io/badge/Currently_Learning-AI-blue?style=for-the-badge&logo=opencv&logoColor=white&animation=blink" />
+  <img src="https://img.shields.io/badge/Currently_Learning-React-lightblue?style=for-the-badge&logo=react&logoColor=white&animation=blink" />
 </p>
 
 ---
@@ -35,23 +59,6 @@
 | Git & GitHub | ![GitHub](https://img.shields.io/badge/GitHub-95%25-black?style=for-the-badge&logo=github&logoColor=white) |
 
 </details>
-
----
-
-## 💻 Currently Coding
-
-<p align="center">
-  <img src="https://media.giphy.com/media/L05HgB2h6qICDs5Sms/giphy.gif" width="600" alt="Coding Animation">
-</p>
-
----
-
-## 🚀 Currently Learning
-<p align="center">
-  <img src="https://img.shields.io/badge/Currently_Learning-Django-green?style=for-the-badge&logo=django&logoColor=white&animation=blink" />
-  <img src="https://img.shields.io/badge/Currently_Learning-AI-blue?style=for-the-badge&logo=opencv&logoColor=white&animation=blink" />
-  <img src="https://img.shields.io/badge/Currently_Learning-React-lightblue?style=for-the-badge&logo=react&logoColor=white&animation=blink" />
-</p>
 
 ---
 

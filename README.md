@@ -37,7 +37,7 @@
 <summary>Click to expand my skills</summary>
 
 
-<p align="center">
+<p align="right">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnpsdjkyNTlhendmempzZDNndnkyaXQwazdoemZqMWt6anVqNTZ5biZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Ws6T5PN7wHv3cY8xy8/giphy.gif"  alt="Laptop Animation"/>
 </p>
 
